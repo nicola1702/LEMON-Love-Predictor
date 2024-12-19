@@ -111,9 +111,9 @@ Contributions are what make the open-source community an amazing place. Feel fre
 
 ## Contact
 
-Samuel Heinrich - [GitHub](https://github.com/samuel29102002)
-Nicola Reichert - [GitHub](https://github.com/nicola1702)
-Felix Widmann 
+* Samuel Heinrich - [GitHub](https://github.com/samuel29102002)
+* Nicola Reichert - [GitHub](https://github.com/nicola1702)
+* Felix Widmann 
 
 Project Link: [https://github.com/samuel29102002/LEMON-Love-Predictor](https://github.com/samuel29102002/LEMON-Love-Predictor)
 
