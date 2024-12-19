@@ -1,7 +1,3 @@
-# Create a customized README.md file for the LEMON-Love-Predictor project
-
-# Define the content of the README file
-readme_content = """
 # LEMON-Love-Predictor
 
 <!-- Improved compatibility of back to top link -->
@@ -91,7 +87,7 @@ The **LEMON-Love-Predictor** project leverages the LEMON dataset to explore whet
 
 - [x] Data Cleaning and Preprocessing
 - [x] Feature Engineering
-- [x] Exploratory Data Analysis
+- [ ] Exploratory Data Analysis
 - [ ] Model Development
 - [ ] Model Evaluation
 - [ ] Deployment
@@ -112,23 +108,16 @@ Contributions are what make the open-source community an amazing place. Feel fre
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
 
 ## Contact
 
-Samuel - [GitHub](https://github.com/samuel29102002)
+Samuel Heinrich - [GitHub](https://github.com/samuel29102002)
+Nicola Reichert - [GitHub](https://github.com/nicola1702)
+Felix Widmann 
 
 Project Link: [https://github.com/samuel29102002/LEMON-Love-Predictor](https://github.com/samuel29102002/LEMON-Love-Predictor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-"""
+
 
