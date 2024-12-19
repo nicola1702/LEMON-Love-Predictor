@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/samuel29102002/LEMON-Love-Predictor">
-    <img src="logo.png" alt="Logo"  height="80">
+    <img src="logo.png" alt="Logo"  height="200">
   </a>
 
 <h3 align="center">LEMON-Love-Predictor</h3>
