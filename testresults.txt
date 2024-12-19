@@ -1,0 +1,39 @@
+1. Demographic Information
+	•	Gender: Coded as 1 for female and 2 for male, providing a basis for gender-based analysis.
+	•	Age: Includes both categorical and numerical representations. Categories like 20-25, 25-30, etc., and a numeric age variable (Age_Numeric) allow for flexibility in age-based segmentation.
+	•	Handedness: Indicates whether the participants are left-handed, right-handed, or ambidextrous.
+	•	Education: Captures educational attainment, coded numerically.
+
+2. Psychological Scales and Assessments
+	•	Hamilton Scale, BSL23, and ERQ: Psychological scales measure emotional regulation, depressive symptoms, and specific behaviors. For example:
+	•	Hamilton Scale may measure anxiety or depression severity.
+	•	ERQ (Emotional Regulation Questionnaire) captures reappraisal and suppression tendencies.
+	•	BSL23 evaluates behavioral aspects, possibly related to emotional or mental health states.
+	•	CERQ (Cognitive Emotion Regulation Questionnaire): Tracks how individuals cope with negative events using strategies like self-blame, acceptance, and positive reappraisal.
+	•	MSPSS: The Multidimensional Scale of Perceived Social Support covers support from family, friends, and significant others.
+	•	FSoZu: Likely measures social connections or support across various dimensions.
+
+3. Health and Lifestyle Factors
+	•	Drug and Smoking Habits:
+	•	Drug use and smoking are coded (binary or ordinal), allowing for an analysis of their relationship with other variables like psychological health.
+	•	Smoking habits range from non-smoker (1) to smoker (3).
+	•	Alcohol Use:
+	•	AUDIT scores and alcohol units consumed in the last 28 days help quantify alcohol use.
+	•	Family history of alcohol dependence provides additional context.
+	•	Physical Measurements:
+	•	Includes height, weight, waist-to-hip ratio, and blood pressure data, enabling a health profile.
+	•	Blood Test Results:
+	•	Extensive data on biochemical markers such as cholesterol (CHOL), glucose (GLU), and others provide a detailed health snapshot.
+
+4. Cognitive and Behavioral Performance
+	•	Cognitive Tests:
+	•	CVLT (California Verbal Learning Test) results offer insights into memory performance.
+	•	TAP (Test of Attentional Performance) results reflect attention and working memory capacity.
+	•	Behavioral Measures:
+	•	BIS/BAS measures behavioral inhibition and activation systems, which link to personality traits and motivation.
+
+5. Personality Traits
+	•	NEO-FFI:
+	•	Captures the Big Five personality traits: Neuroticism, Extraversion, Openness, Agreeableness, and Conscientiousness.
+	•	STAI and STAXI:
+	•	Measure anxiety (trait vs. state) and anger (e.g., trait anger, anger control).
