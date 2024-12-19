@@ -1,5 +1,3 @@
-# LEMON-Love-Predictor
-
 <!-- Improved compatibility of back to top link -->
 <a id="readme-top"></a>
 
@@ -7,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/samuel29102002/LEMON-Love-Predictor">
-    <img src="logo.png" alt="Logo"  height="200">
+    <img src="images/logo.png" alt="Logo"  height="200">
   </a>
 
 <h3 align="center">LEMON-Love-Predictor</h3>
@@ -15,7 +13,7 @@
   <p align="center">
     Predicting Relationship Status Using Emotional, Cognitive, and Behavioral Traits
     <br />
-    <a href="https://github.com/samuel29102002/LEMON-Love-Predictor"><strong>Explore the Docs »</strong></a>
+    <a href="https://github.com/samuel29102002/LEMON-Love-Predictor/documentation"><strong>Explore the Docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/samuel29102002/LEMON-Love-Predictor">View Demo</a>
