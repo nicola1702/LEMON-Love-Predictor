@@ -13,7 +13,7 @@
   <p align="center">
     Predicting Relationship Status Using Emotional, Cognitive, and Behavioral Traits
     <br />
-    <a href="https://github.com/samuel29102002/LEMON-Love-Predictor/documentation"><strong>Explore the Docs »</strong></a>
+    <a href="https://github.com/samuel29102002/LEMON-Love-Predictor/tree/main/documentation"><strong>Explore the Docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/samuel29102002/LEMON-Love-Predictor">View Demo</a>
