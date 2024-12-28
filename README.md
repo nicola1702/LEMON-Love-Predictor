@@ -120,7 +120,7 @@ LEMON-Love-Predictor/
 ├── README.md
 ├── ClinBrAIn_Project_Categories.pdf
 ├── Data_Literacy_2024_Project_Plan.pdf
-
+```
 ---
 ## Contributing
 
