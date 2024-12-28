@@ -1,5 +1,3 @@
-# LEMON-Love-Predictor
-
 <!-- Improved compatibility of back to top link -->
 <a id="readme-top"></a>
 
@@ -7,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/samuel29102002/LEMON-Love-Predictor">
-    <img src="logo.png" alt="Logo"  height="80">
+    <img src="images/logo.png" alt="Logo"  height="200">
   </a>
 
 <h3 align="center">LEMON-Love-Predictor</h3>
@@ -15,7 +13,7 @@
   <p align="center">
     Predicting Relationship Status Using Emotional, Cognitive, and Behavioral Traits
     <br />
-    <a href="https://github.com/samuel29102002/LEMON-Love-Predictor"><strong>Explore the Docs »</strong></a>
+    <a href="https://github.com/samuel29102002/LEMON-Love-Predictor/tree/main/documentation"><strong>Explore the Docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/samuel29102002/LEMON-Love-Predictor">View Demo</a>
@@ -95,7 +93,35 @@ The **LEMON-Love-Predictor** project leverages the LEMON dataset to explore whet
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
+## Folder Structure
+# LEMON-Love-Predictor
 
+## Ordnerstruktur
+
+```plaintext
+LEMON-Love-Predictor/
+├── data/
+│   ├── Cognitive_Test_Battery/
+│   ├── Data_Availability_Table/
+│   ├── Emotion_and_Personality/
+│   ├── Medical_LEMON/
+│   ├── cleaned_processed_data.xlsx
+│   ├── final_merged_dataset.xlsx
+│   ├── META_File_IDs_Age_1.csv
+│   ├── META_File_IDs_Age_2.xlsx
+├── mlruns/
+├── repo/
+│   ├── LEMON-Love-Predictor/
+│       ├── code/
+│       ├── data/
+│       ├── documentation/
+│       ├── images/
+├── .gitignore
+├── README.md
+├── ClinBrAIn_Project_Categories.pdf
+├── Data_Literacy_2024_Project_Plan.pdf
+```
+---
 ## Contributing
 
 Contributions are what make the open-source community an amazing place. Feel free to fork the repository and submit pull requests.
