@@ -54,7 +54,7 @@ docker-pycreds==0.4.0
 entrypoints==0.4
 exceptiongroup==1.2.1
 executing==2.0.1
-fastapi==0.92.0
+fastapi==0.1.17
 fastjsonschema==2.18.1
 filelock==3.12.4
 Flask==2.2.2
@@ -163,7 +163,7 @@ opentelemetry-semantic-conventions==0.50b0
 opt-einsum==3.3.0
 optree==0.11.0
 overrides==7.4.0
-packaging==24.0
+packaging==23.2
 paho-mqtt==1.6.1
 pandas==2.1.1
 pandoc==2.3
@@ -174,7 +174,7 @@ pfzy==0.3.4
 pickleshare==0.7.5
 Pillow==10.0.1
 pipenv==2022.3.28
-platformdirs==4.2.1
+platformdirs
 plotly==5.18.0
 plumbum==1.8.2
 ply==3.11
@@ -190,7 +190,7 @@ pyarrow==13.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
-pydantic==2.10.4
+pydantic>=2.6
 pydantic_core==2.27.2
 Pygments==2.18.0
 pyparsing==3.1.1
