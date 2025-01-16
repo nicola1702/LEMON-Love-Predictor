@@ -15,7 +15,7 @@ Trait (in vergangene unangenehmen oder schwierigen Situation)
 
 
 Response scales:
-from 1 (not at all) to 4 (very much). 
+from 1 (not at all) to 4 (very much).
 
 1 = überhaupt nicht
 2 = ein bißchen
@@ -23,20 +23,35 @@ from 1 (not at all) to 4 (very much).
 4 = sehr
 
 Subscales/Columns:
-COPE_SelfDistraction: Self Distraction	
-COPE_UseOfEmotionalSupport: Use Of Emotional Support	
-COPE_BehavioralDisengagement: Behavioral Disengagement	
-COPE_positiveReframing: Positive Reframing	
-COPE_Humor: Humor	
-COPE_Alkohol‎_Drogen: Substance Use	
-COPE_UseOfInstrumentalSupport: Use Of Instrumental Support	
-COPE_Venting: Venting	
-COPE_Planning: Planning	
-COPE_Acceptance: Acceptance	
-COPE_SelfBlame: Self Blame	
-COPE_Religion: Religion	
-COPE_Denial: Denial	
+COPE_SelfDistraction: Self Distraction
+COPE_UseOfEmotionalSupport: Use Of Emotional Support
+COPE_BehavioralDisengagement: Behavioral Disengagement
+COPE_positiveReframing: Positive Reframing
+COPE_Humor: Humor
+COPE_Alkohol‎_Drogen: Substance Use
+COPE_UseOfInstrumentalSupport: Use Of Instrumental Support
+COPE_Venting: Venting
+COPE_Planning: Planning
+COPE_Acceptance: Acceptance
+COPE_SelfBlame: Self Blame
+COPE_Religion: Religion
+COPE_Denial: Denial
 COPE_activeCoping: Active Coping
+
+
+Persönlichkeit und Bewältigung wurden als Prädiktoren für emotionale Ergebnisse eines
+leicht stressigen medizinischen Eingriffs festgelegt. Situationsspezifische Bewältigung
+wurde im Gegensatz zur dispositionellen Bewältigung untersucht und es wurde getestet,
+ob die eine oder die andere die Beziehung zwischen Persönlichkeitsfaktoren höherer Ordnung
+und Stressergebnissen vermitteln würde. Kataraktpatienten (N=110) nahmen an vier Messzeitpunkten
+während eines sechswöchigen Zeitraums rund um ihre geplante Operation teil. Die dispositionelle
+Bewältigung vermittelte nicht die Beziehung zwischen Persönlichkeit und Ergebnis.
+Im Gegensatz dazu erlangte die situationsspezifische Bewältigung einen Vermittlerstatus
+zwischen Persönlichkeit und Anpassungskriterien und war für die unabhängige Ergebnisvarianz verantwortlich,
+sobald Persönlichkeitsmerkmale als Prädiktoren in die Modelle aufgenommen wurden.
+Die Daten legen also nahe, dass die Frage, ob die Bewältigung zwischen Persönlichkeitsfaktoren
+und affektiven Ergebnissen vermittelt oder nicht, mit den methodischen Ansätzen ihrer Operationalisierung zusammenhängen könnte.
+ (PsycInfo-Datenbankeintrag (c) 2021 APA, alle Rechte vorbehalten)
 
 
 

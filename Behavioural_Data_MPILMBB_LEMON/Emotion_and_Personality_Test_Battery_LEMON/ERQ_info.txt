@@ -13,7 +13,7 @@ Trait
 
 
 Answer Codes:
-from 1 (strongly disagree) to 7 (strongly agree). 
+from 1 (strongly disagree) to 7 (strongly agree).
 
 1 = stimmt überhaupt nicht
 2
@@ -25,8 +25,13 @@ from 1 (strongly disagree) to 7 (strongly agree).
 
 
 
-Subscales/Columns:	
-ERQ_reappraisal: Reappraisal		
+Subscales/Columns:
+ERQ_reappraisal: Reappraisal
 ERQ_suppression: Suppression
 
+Ein hoher Reappraisal-Score weist darauf hin, dass jemand häufig versucht, seine Gefühle durch gedankliches
+Umlenken oder Umdeuten der Situation zu regulieren (oft als eher „adaptive“ Strategie angesehen).
+
+Ein hoher Suppression-Score zeigt an, dass jemand seine Gefühle häufiger unterdrückt und nicht expressiv zeigt
+(oft als eher „maladaptive“ Strategie bewertet, abhängig vom Kontext).
 
