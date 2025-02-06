@@ -24,8 +24,8 @@ from 1 (not true at all) to 7 (very true).
 
 
 Subscales/Columns:
-MSPSS_SignificantOthers: Significant Others	
-MSPSS_Family: Family		
-MSPSS_Friends: Friends	
+MSPSS_SignificantOthers: Significant Others
+MSPSS_Family: Family
+MSPSS_Friends: Friends
 MSPSS_total
 
