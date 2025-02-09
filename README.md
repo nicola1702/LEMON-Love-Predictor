@@ -31,9 +31,11 @@
 The **LEMON-Love-Predictor** project leverages the LEMON dataset to explore whether **emotional**, **cognitive**, and **behavioral traits** can predict an individual's relationship status. By analyzing psychological and medical test scores, this project aims to identify key factors that influence relational outcomes and build predictive models.
 
 ### Key Features
-- Analyze key psychological and cognitive tests.
-- Develop machine learning models to predict relationship likelihood.
-- Explore the correlation between emotions, cognition, and social behavior.
+- Extensive data preprocessing and feature engineering.
+- Advanced machine learning models including **Random Forest** and **Logistic Regression**.
+- Hyperparameter tuning using **GridSearchCV**.
+- Model evaluation using **cross-validation** and **SHAP analysis**.
+- Exploratory data analysis with **advanced visualizations** (Cluster Maps, SHAP, KDE Plots).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -46,6 +48,7 @@ The **LEMON-Love-Predictor** project leverages the LEMON dataset to explore whet
 * [Scikit-Learn](https://scikit-learn.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
+* [SHAP](https://shap.readthedocs.io/en/latest/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,8 +77,8 @@ The **LEMON-Love-Predictor** project leverages the LEMON dataset to explore whet
 
 ## Usage
 
-1. Run the Jupyter Notebook to explore the data analysis and model development.
-2. Use the scripts for data preprocessing and predictive modeling.
+1. Run the Jupyter Notebook for exploratory data analysis and model training.
+2. Visualize feature importance and relationship distributions using SHAP and clustering methods.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,46 +88,48 @@ The **LEMON-Love-Predictor** project leverages the LEMON dataset to explore whet
 
 - [x] Data Cleaning and Preprocessing
 - [x] Feature Engineering
-- [ ] Exploratory Data Analysis
-- [ ] Model Development
-- [ ] Model Evaluation
-- [ ] Deployment
+- [x] Exploratory Data Analysis (Correlation, Feature Importance, KDE Plots)
+- [x] Model Development (Random Forest, Logistic Regression, Dummy Classifier)
+- [x] Model Evaluation (Cross-Validation, GridSearch, SHAP, Statistical Analysis)
+- [ ] Deployment (Optional Future Work)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-## Folder Structure
-# LEMON-Love-Predictor
 
-## Ordnerstruktur
+## Folder Structure
 
 ```plaintext
-LEMON-Love-Predictor/
-├── data/
-│   ├── Cognitive_Test_Battery/
-│   ├── Data_Availability_Table/
-│   ├── Emotion_and_Personality/
+LEMON-LOVE-PREDICTOR/
+├── Behavioural_Data_MPILMBB_LEMON/
+│   ├── Cognitive_Test_Battery_LEMON/
+│   ├── Data_Availability_Tables/
+│   ├── Emotion_and_Personality_Test_Battery_LEMON/
 │   ├── Medical_LEMON/
-│   ├── cleaned_processed_data.xlsx
-│   ├── final_merged_dataset.xlsx
-│   ├── META_File_IDs_Age_1.csv
-│   ├── META_File_IDs_Age_2.xlsx
-├── mlruns/
-├── repo/
-│   ├── LEMON-Love-Predictor/
-│       ├── code/
-│       ├── data/
-│       ├── documentation/
-│       ├── images/
+├── age_group.csv
+├── cleaned_processed_data.csv
+├── final_merged_dataset.csv
+├── merged_data_clean_relevant.csv
+├── META_File_IDs
+├── relationship_status.csv
+├── code/
+│   ├── data_structure_analysis.ipynb
+│   ├── model_training.ipynb
+│   ├── requirements.txt
+├── documentation/
+│   ├── doku_LEMON.md
+│   ├── Test_Scales_and_Relationship_Relevance.xlsx
+│   ├── testresults.txt
+├── images/
 ├── .gitignore
 ├── README.md
-├── ClinBrAIn_Project_Categories.pdf
-├── Data_Literacy_2024_Project_Plan.pdf
 ```
+
 ---
+
 ## Contributing
 
-Contributions are what make the open-source community an amazing place. Feel free to fork the repository and submit pull requests.
+Contributions are welcome!
 
 1. Fork the Project
 2. Create a Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -134,16 +139,14 @@ Contributions are what make the open-source community an amazing place. Feel fre
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
 
 ## Contact
 
 * Samuel Heinrich - [GitHub](https://github.com/samuel29102002)
 * Nicola Reichert - [GitHub](https://github.com/nicola1702)
-* Felix Widmann 
+* Felix Widmann - [GitHub](https://github.com/FelixWidmann)
 
 Project Link: [https://github.com/samuel29102002/LEMON-Love-Predictor](https://github.com/samuel29102002/LEMON-Love-Predictor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
